@@ -9,7 +9,7 @@ Description: Current version of the package conatins 4 functions to perform mult
 Version: 1.0.0
 Authors@R: person("Maksym", "Zhuravel", email = "m.zhuravel11@gmail.com", role = c("aut", "cre","cph"))
 License: MIT + file LICENSE
-Video: 
+Video: https://youtu.be/CkrVzaTkWw8
 Imports:
     msa,
     Biostrings,
