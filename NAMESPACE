@@ -1,0 +1,4 @@
+export(align)
+export(conservo)
+export(gen_heatmap)
+export(gen_lineplot)

@@ -1,0 +1,19 @@
+Package: conservR
+Title: Calculate Residue Conservation Scores from Multiple Sequence Alignments
+Description: Current version of the package conatins 4 functions to perform multiple sequence alignments of
+    protein sequences, calculate residue conservation scores using the
+    BLOSUM62 substitution matrix, and visualize conservation patterns as
+    heatmaps and lineplot. The package is designed for rapid
+    protein conservation analysis and generation of publication-quality
+    figures.
+Version: 1.0.0
+Authors@R: person("Maksym", "Zhuravel", email = "m.zhuravel11@gmail.com", role = c("aut", "cre","cph"))
+License: MIT + file LICENSE
+Video: 
+Imports:
+    msa,
+    Biostrings,
+    ggplot2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
